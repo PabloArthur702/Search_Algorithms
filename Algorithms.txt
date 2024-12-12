@@ -1,0 +1,32 @@
+Algoritmos que devo estudar e suas características (Resumo)
+
+<>SelectionSort (implementado)
+
+
+<>BubbleSort (implementado)
+
+<>InsertionSort (implementado)
+
+<>MergeSort (implementado)
+
+<>QuickSort ()
+É um algoritmo muito utilizado devido a sua eficiência, in-place e recursivo.
+É dividido em duas etapas, "dividir" e "conquistar"
+
+O processo de divisão serve para que o vetor V seja particionado até que reste somente uma célula (caso que podemos considerar como indivisível, logo ordenado). Nesse processo, escolhemos um pivô (geralmente aleatório) e colocamos esse pivô na sua posição correta na lista, onde a sua esquerda terá somente valores menores que ele (esses valores estarão desordenados) e a sua direita estará os valores maiores que o pivô.  
+O processo de conquista é o processo contrario, no qual ele "juntará" essas células de forma ordenada.
+Assim, no final, teremos um vetor ordenado. 
+
+
+<>CountingSort ()
+
+<>Introdução a Árvores
+~Introdução e Propriedades
+~Árvores Binárias - Níveis, Altura, Balanceamento, EDs 
+
+<>BST: Operações
+~Inserção e Busca 
+~Min e Max
+~Altura
+~Navegação
+~Remoção
